@@ -1,0 +1,406 @@
+    1  ssh-keygen
+    2  cd
+    3  ssh-keygen
+    4  cd
+    5  ssh-keygen
+    6  ssh-keygen
+    7  ssh-keygen
+    8  ssh-keygen[200~$ ssh-keygen
+    9  ssh ec2-user@linux.itcareerhub.de
+   10  ls
+   11  scp 111.txt ec2-user@linux.itcareerhub.de: /opt/250425-ptm/Georgiy/N111
+   12  scp 111.txt ec2-user@linux.itcareerhub.de:/opt/250425-ptm/Georgiy/N111
+   13  scp ec2-user@linux.itcareerhub.de:/opt/250425-ptm/Georgiy/txt.txt .
+   14  cat .ssh/id_ed25519.pub
+   15  ssh ec2-user@linux.itcareerhub.de
+   16  cd /
+   17  cd /opt/250425-ptm/
+   18  history
+   19  cd /opt/250425-ptm/Georgiy
+   20  cd /opt/250425-ptm/
+   21  cd /opt/
+   22  ssh ec2-user@linux.itcareerhub.de
+   23  ssh ec2-user@linux.itcareerhub.de
+   24  ssh ec2-user@linux.itcareerhub.de
+   25  ssh ec2-user@linux.itcareerhub.de
+   26  env
+   27  cd ..
+   28  tree
+   29  ls -la
+   30  cd /georg/
+   31  cd /georg
+   32  cd /
+   33  cd .
+   34  env
+   35  cd /opt/
+   36  ls -la
+   37  cd /home/opt/
+   38  cd /home/opt
+   39  cd /home/
+   40  cd ..
+   41  ls
+   42  ssh ec2-user@linux.itcareerhub.de
+   43  ssh ec2-user@linux.itcareerhub.de
+   44  ssh ec2-user@linux.itcareerhub.de
+   45  cat /proc/cpuinfo 
+   46  ssh ec2-user@linux.itcareerhub.de
+   47  ssh ec2-user@linux.itcareerhub.de
+   48  scp ec2-user@linux.itcareerhub.de:/opt/250425-ptm/Georgiy/.process_management .
+   49  scp ec2-user@linux.itcareerhub.de:/opt/250425-ptm/Georgiy/command_history_full.txt .
+   50  scp ec2-user@linux.itcareerhub.de:/opt/250425-ptm/Georgiy/1.txt .
+   51  ssh ec2-user@linux.itcareerhub.de
+   52  cd /opt/250425-ptm/Georgiy
+   53  ssh ec2-user@linux.itcareerhub.de
+   54  ssh ec2-user@linux.itcareerhub.de
+   55  ssh ec2-user@linux.itcareerhub.de
+   56  cd
+   57  mkdir 02062025
+   58  cd 02062025
+   59  tree
+   60  ls -l
+   61  echo "# 02062025" >> README.md
+   62  ls -l
+   63  git init
+   64  ls -la
+   65  git status
+   66  git add README.md 
+   67  git add .
+   68  git status
+   69  $ git commit -m "first commit"
+   70  $ git commit -m "first commit"
+   71  git commit -m "first commit"
+   72  git config --global user.email "georgiynge2025@gmail.com"
+   73  git config --global user.name "GeorgiyNedielko"
+   74  $ git commit -m "first commit"
+   75  git commit -m "first commit"
+   76  git branch -M main
+   77  git remote add origin git@github.com:GeorgiyNedielko/02062025.git
+   78  git remote -v
+   79  git push -u origin main
+   80  history > /tmp/history.txt && export_file /tmp/history.txt
+   81  history > /tmp/history.txt
+   82  export_file /tmp/history.txt
+   83  cd /tmp/
+   84  export_file /tmp/history.txt
+   85  export_file history.txt
+   86  tree
+   87  ls -la
+   88  grap history
+   89  ls -l
+   90  ls -
+   91  ls 
+   92  cd /tmp/
+   93  history > history1.txt
+   94  cat history1.txt
+   95  export_file history.txt .
+   96  export_file history1.txt .
+   97  export_file /tmp/history1.txt
+   98  export_file /tmp/history1.txt
+   99  export_file /tmp/history1.txt
+  100  св /
+  101  cd /
+  102  export_file /tmp/history1.txt
+  103  cd /home/
+  104  tree
+  105  ls
+  106  cd /tmp/
+  107  export_file /tmp/history1.txt ~/Downloads/
+  108  cp /tmp/history1.txt /c/Users/Georg/Downloads/
+  109  history 
+  110  ssh ec2-user@linux.itcareerhub.de
+  111  ssh ec2-user@linux.itcareerhub.de
+  112  ssh ec2-user@linux.itcareerhub.de
+  113  ssh ec2-user@linux.itcareerhub.de
+  114  mkdir git_intro
+  115  cd git_intro
+  116  pwd
+  117  git_intro % ls -l
+  118  ls
+  119  git_intro % echo "# my HW" >> README.md
+  120  ls
+  121  git status
+  122  git init
+  123  git add README.md
+  124  git commit -m "first commit"~
+  125  git commit -m "first commit"
+  126  git branch -M main
+  127  git remote add origin git@github.com:GeorgiyNedielko/git_intro.git
+  128  git push -u origin main
+  129  $ git_intro % echo "# my HW" >> README.md
+  130  ls
+  131  git status
+  132  git add
+  133  git add README.md
+  134  git status
+  135  git add README.md
+  136  ls
+  137  git status
+  138  tree
+  139  ls -l
+  140  git status
+  141  git add os1.jpg
+  142  git commit -m "Добавлен os1.jpg"
+  143  git push
+  144  ls -l
+  145  git status
+  146  git push -u origin main
+  147  ssh ec2-user@linux.itcareerhub.de
+  148  ssh ec2-user@linux.itcareerhub.de
+  149  ssh ec2-user@linux.itcareerhub.de
+  150  ssh ec2-user@linux.itcareerhub.de
+  151  ssh ec2-user@linux.itcareerhub.de
+  152  git branch
+  153  cd /
+  154  git branch
+  155  cd git_intro
+  156  ls -la
+  157  cd ..
+  158  cd 1006
+  159  mkdir 1006
+  160  pwd
+  161  ls -ld
+  162  ps
+  163  cd /usr/
+  164  mkdir 1006
+  165  pwd
+  166  /
+  167  cd /
+  168  ls -la
+  169  ls -ld
+  170  sudo mkdir 1006
+  171  cd ~
+  172  mkdir 1006
+  173  ls -ld
+  174  ls -la
+  175  cd 1006
+  176  ls -la
+  177  ls 
+  178  ls -l
+  179  cd ..
+  180  ls -la
+  181  cd 1006
+  182  touch file.txt
+  183  ls -la
+  184  git branch
+  185  chmod 744 1006
+  186  ls -ld
+  187  sudo mkdir 1006
+  188  git init
+  189  git branch
+  190  git status 
+  191  git add file.txt 
+  192  git status 
+  193  git commit -m "new file.txt"
+  194  git status 
+  195  git branch
+  196  git remote -v
+  197  git remote add origin git@github.com:Oleanna/1006.git
+  198  git remote -v
+  199  git push -u
+  200  git push -u origin main
+  201  git push -u origin master
+  202  git remote add origin git@github.com:GeorgiyNedielko/1006.git
+  203  git push -u origin master
+  204  git push -u origin master
+  205  git push -u origin master
+  206  git push --force
+  207  git push -f
+  208  git push --set-upstream origin master
+  209  git push --force
+  210  git pull
+  211  git pull origin main 
+  212  git status 
+  213  git fitch
+  214  git fetch
+  215  git status 
+  216  git fetch origin main
+  217  git status 
+  218  ls -la
+  219  git merge origin/main 
+  220  git status 
+  221  ls -la
+  222  git pull origin main --allow-unrelated-histories 
+  223  ls -la
+  224  git branch -M main
+  225  git log
+  226  git push -u origin master
+  227  git push -u origin main
+  228  cd /
+  229  cd git_intro
+  230  ls -la
+  231  cd ~
+  232  ls -la
+  233  rm 1.txt
+  234  ls -la
+  235  ls -la
+  236  pwd
+  237  git status
+  238  ssh ec2-user@linux.itcareerhub.de
+  239  ssh ec2-user@linux.itcareerhub.de
+  240  cat .ssh
+  241  cd ~
+  242  mkdir git-branch
+  243  ls -la
+  244  cd git-branch
+  245  echo date >> README.md
+  246  cat README.md 
+  247  date >> README.md 
+  248  cat README.md 
+  249  git init
+  250  ls -la
+  251  git status
+  252  git add.
+  253  git status
+  254  git add README.md 
+  255  git status
+  256  git commit -m "first kommit"
+  257  cat README.md 
+  258  git branch -M main
+  259  git remote add origin git@github.com:GeorgiyNedielko/git-branch.git
+  260  git push -u origin main 
+  261  git pull
+  262  [200~git branch --set-upstream-to=origin/main main
+  263  git branch --set-upstream-to=origin/main main
+  264  git pull --rebase 
+  265  git push -u origin main 
+  266  git pull --rebase origin main
+  267  >>>>>>> 8d47361... first kommit
+  268  git add README.md
+  269  git push -u origin main 
+  270  git status 
+  271  git rebase --continue
+  272  git push -u origin main 
+  273  git log
+  274  ls -la
+  275  tree
+  276  ls
+  277  exit
+  278  ls -la
+  279  cd git-branch
+  280  ls -la
+  281  git checkout -b gitignore
+  282  curl -o .gitignore https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  283  git add .gitignore
+  284  git status 
+  285  ls -la
+  286  git commit -m "Добавлен файл .gitignore из репозитория aliaskov/bashscripts"
+  287  git push origin gitignore
+  288  git log 
+  289  ls -la
+  290  ./.gitignore
+  291  touch debug/test.log
+  292  mkdir -p debug
+  293  touch debug/test.log
+  294  git status 
+  295  cat .gitigngitign
+  296  cat .gitignor
+  297  cd ..
+  298  cat .gitignor
+  299  cat .gitignore
+  300  cd /gitignore/
+  301  cd ~/git-branch
+  302  cat .gitignore
+  303  ls -la
+  304  exit
+  305  ssh ec2-user@linux.itcareerhub.de
+  306  ssh ec2-user@linux.itcareerhub.de
+  307  ssh ec2-user@linux.itcareerhub.de
+  308  scp ec2-user@linux.itcareerhub.de:/opt/250425-ptm/Georgiy/0606.sh .
+  309  ssh ec2-user@linux.itcareerhub.de
+  310  git init
+  311  git add index.html
+  312  git commit -m "new f"
+  313  cd /c/Users/georg/
+  314  git init 
+  315  mkdir 2106 
+  316  cd 2106
+  317  touch 2106.txt
+  318  la
+  319  ls
+  320  date > 2106.txt 
+  321  cat 2106.txt 
+  322  git add .
+  323  git status 
+  324  git branch 
+  325  git branch -r
+  326  git branch -a
+  327  ls -a
+  328  cd c/user/georg/
+  329  cd ./
+  330  cd /c/
+  331  cd /c/user/georg/
+  332  cd /c/Users/georg/
+  333  cd /c/Users/georg/
+  334  cd /c/Users/
+  335  ls -la
+  336  cd /c/Users/georg/
+  337  cd /c/Users/georg
+  338  cd /c/Users/
+  339  la la
+  340  la -la
+  341  ls -la
+  342  cd /c/Users/georg/
+  343  ls -la
+  344  git branch 
+  345  cd git-branch
+  346  ls -a
+  347  cd ..
+  348  cd 2106
+  349  ls -a
+  350  git branch 
+  351  cd git-branch
+  352  cd ..
+  353  cd git-branch
+  354  git branch 
+  355  git checkout main
+  356  git marge gitignore main
+  357  git merge gitignore 
+  358  git branch 
+  359  git status 
+  360  touch 3.txt
+  361  echo "date" 3.txt 
+  362  date >> 3.txt 
+  363  git add .
+  364  git status 
+  365  git commit -m "new file"
+  366  cd /c/Users/georg/
+  367  ls -la
+  368  mkdir 240625
+  369  cd 240625
+  370  cd 240625/
+  371  git init
+  372  cd ..
+  373  rm -d 240625
+  374  rm -r 240625
+  375  ls -la
+  376  mkdir.exe 
+  377  mkdir dz12
+  378  cd dz12
+  379  git clone git@github.com:GeorgiyNedielko/240625r.git
+  380  ls
+  381  cd 240625r
+  382  ls
+  383  ls -a
+  384  echo ".log" > .gitignore
+  385  git add .gitignore 
+  386  git commit -m "add .gitignore"
+  387  git status
+  388  git branch -M main
+  389  git push -u origin main
+  390  git checkout -b feature
+  391  echo "new file README.md" >> README.md
+  392  echo "new file .bak" >> .gitignore
+  393  ls
+  394  ls -a
+  395  git add .
+  396  git status
+  397  git commit -m "2 new file"
+  398  git push -u origin feature
+  399  tree
+  400  ls -la
+  401  git log --graph
+  402  git branch -r
+  403  git commit --amend
+  404  git checkout main
+  405  git merge feature
+  406  history > history.txt
